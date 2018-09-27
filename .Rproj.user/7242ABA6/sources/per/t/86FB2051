@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536848063333.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "86FB2051",
+    "lastKnownWriteTime" : 14073950706335855,
+    "last_content_update" : 1536848063333,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "b05f517daedc4ab7aea94ce051d9e1e1",
+        "name" : "jeju_forecast_hw_damped_add",
+        "title" : "jeju_forecast_hw_damped_add"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
